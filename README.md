@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**garethtalty/garethtalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gareth. I like to build good-looking software, mostly for the web.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: rebuilding a bank
+- 🌱 I’m currently learning: GraphQL, Apollo, you can't please everyone
+- 👯 I’m looking to collaborate on: Anything on the web
+- 🤔 I’m looking for help with: Finding an awesome engineering team (no recruiters!)
+- 💬 Ask me about: JavaScript, React, Unit Testing
+- 📫 How to reach me: http://garethtalty.github.io
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: 
+![](https://media.giphy.com/media/l1J9xEhZuEnlCp692/giphy.gif)
