@@ -10,5 +10,5 @@ I'm Gareth. I like to build good-looking software, mostly for the web.
 - 💬 Ask me about: JavaScript, React, Unit Testing
 - 📫 How to reach me: http://garethtalty.github.io
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: 
+
 <img src="https://i.giphy.com/media/l1J9xEhZuEnlCp692/giphy.webp" />
